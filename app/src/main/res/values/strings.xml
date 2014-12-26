@@ -6,6 +6,7 @@
     <string name="action_settings">Settings</string>
     <string name="ButtonApplicationText">Приложения</string>
     <string name="ButtonSettingsText">Настройки</string>
+    <string name="ButtonCloseText">Свернуть меню</string>
     <string name="title_activity_settings">SettingsActivity</string>
 
 

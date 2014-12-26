@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="MainBackground">#E07B4F98</color>
-    <color name="ActiveActivity">#F377FFFF</color>
-    <color name="IconTextColor">#ff29fcff</color>
+    <color name="MainBackground">#907B4F98</color>
+    <color name="ActiveFragment">#FFFF9606</color>
+    <color name="InactiveFragment">#F377FFFF</color>
+    <color name="IconTextColor">#FF29FCFF</color>
     <color name="IconPressedTextColor">#E23BFF39</color>
 </resources>
+

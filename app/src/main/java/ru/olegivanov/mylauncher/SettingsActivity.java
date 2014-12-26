@@ -61,10 +61,10 @@ public class SettingsActivity extends Activity {
             case R.id.wifi:
                 startActivity(new Intent(Settings.ACTION_WIFI_SETTINGS));
                 break;
-            case R.id.wifiOn:
+           /* case R.id.wifiOn:
                 Switch sw = (Switch) findViewById(R.id.wifiOn);
                 WifiManager wifi = (WifiManager)getBaseContext().getSystemService(Context.WIFI_SERVICE);
-                wifi.setWifiEnabled(sw.isChecked());
+                wifi.setWifiEnabled(sw.isChecked());*/
 
 
 
